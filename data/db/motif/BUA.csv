@@ -1,0 +1,6 @@
+B -> A
+A -> C
+C -> A
+A.type = "book"
+B.type = "user"
+C.type = "author"

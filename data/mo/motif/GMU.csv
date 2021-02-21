@@ -1,0 +1,6 @@
+A -> B
+B -> A
+C -> B
+A.type = "genre"
+B.type = "movie"
+C.type = "user"

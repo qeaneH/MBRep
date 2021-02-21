@@ -1,0 +1,7 @@
+A -> B
+B -> A
+A -> C
+C -> A
+A.type = "occupation"
+B.type = "user"
+C.type = "user"
